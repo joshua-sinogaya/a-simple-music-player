@@ -1,0 +1,16 @@
+C:\Users\yungjosh\source\repos\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\yungjosh\source\repos\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\yungjosh\source\repos\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.Splash.resources
+C:\Users\yungjosh\source\repos\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\yungjosh\source\repos\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\yungjosh\source\repos\MusicPlayer\obj\Debug\MusicPlayer.WindowsMediaPlayerMusic.resources
